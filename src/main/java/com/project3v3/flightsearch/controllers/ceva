@@ -1,0 +1,4007 @@
+{
+  "departures": [
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:40+03:00",
+        "actualTimeLocal": "2021-10-04 20:54+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:40Z",
+        "actualTimeUtc": "2021-10-04 17:54Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRCL",
+          "iata": "CLJ",
+          "name": "Cluj-Napoca"
+        },
+        "quality": []
+      },
+      "number": "0B 3101",
+      "callSign": "BLA3101",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "modeS": "4A3704",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:10+03:00",
+        "actualTimeLocal": "2021-10-04 20:10+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:10Z",
+        "actualTimeUtc": "2021-10-04 17:10Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "name": "Targu Mures ( )"
+        },
+        "quality": []
+      },
+      "number": "DY 1561",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "airline": {
+        "name": "Norwegian Air Shuttle"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:25+03:00",
+        "actualTimeLocal": "2021-10-04 20:30+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:25Z",
+        "actualTimeUtc": "2021-10-04 17:30Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LGAV",
+          "iata": "ATH",
+          "name": "Athens"
+        },
+        "quality": []
+      },
+      "number": "RO 9301",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 21:50+03:00",
+        "actualTimeLocal": "2021-10-04 21:55+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:50Z",
+        "actualTimeUtc": "2021-10-04 18:55Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LTFM",
+          "iata": "IST",
+          "name": "Istanbul"
+        },
+        "quality": []
+      },
+      "number": "RO 9163",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 00:50+03:00",
+        "actualTimeLocal": "2021-10-05 00:51+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:50Z",
+        "actualTimeUtc": "2021-10-04 21:51Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRBC",
+          "iata": "BCM",
+          "name": "Bacău"
+        },
+        "quality": []
+      },
+      "number": "0B 2101",
+      "callSign": "BLA2101",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-BML",
+        "modeS": "4A09AC",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 05:55+03:00",
+        "actualTimeLocal": "2021-10-05 05:53+03:00",
+        "scheduledTimeUtc": "2021-10-05 02:55Z",
+        "actualTimeUtc": "2021-10-05 02:53Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LICJ",
+          "iata": "PMO",
+          "name": "Palermo"
+        },
+        "quality": []
+      },
+      "number": "RO 7311",
+      "callSign": "ROT7311",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-ASC",
+        "modeS": "4A0663",
+        "model": "Airbus A318"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 22:20+03:00",
+        "scheduledTimeUtc": "2021-10-04 19:20Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "name": "Tel Aviv Yafo"
+        },
+        "quality": []
+      },
+      "number": "LY 572",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-900"
+      },
+      "airline": {
+        "name": "El Al"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 23:50+03:00",
+        "actualTimeLocal": "2021-10-04 23:53+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:50Z",
+        "actualTimeUtc": "2021-10-04 20:53Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRBC",
+          "iata": "BCM",
+          "name": "Bacău"
+        },
+        "quality": []
+      },
+      "number": "0B 2916",
+      "callSign": "BLA2916",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-BMM",
+        "modeS": "4A09AD",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 23:55+03:00",
+        "actualTimeLocal": "2021-10-05 00:03+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:55Z",
+        "actualTimeUtc": "2021-10-04 21:03Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRIA",
+          "iata": "IAS",
+          "name": "Iaşi"
+        },
+        "quality": []
+      },
+      "number": "0B 6101",
+      "status": "Expected",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:25+03:00",
+        "actualTimeLocal": "2021-10-05 06:32+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:25Z",
+        "actualTimeUtc": "2021-10-05 03:32Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EDDM",
+          "iata": "MUC",
+          "name": "Munich"
+        },
+        "quality": []
+      },
+      "number": "SK 3741",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "SAS"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:25+03:00",
+        "actualTimeLocal": "2021-10-05 06:32+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:25Z",
+        "actualTimeUtc": "2021-10-05 03:32Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EDDM",
+          "iata": "MUC",
+          "name": "Munich"
+        },
+        "quality": []
+      },
+      "number": "TP 7559",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "TAP Air Portugal"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:35+03:00",
+        "actualTimeLocal": "2021-10-05 07:42+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:35Z",
+        "actualTimeUtc": "2021-10-05 04:42Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRCL",
+          "iata": "CLJ",
+          "name": "Cluj-Napoca"
+        },
+        "quality": []
+      },
+      "number": "KL 2704",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "KLM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:30+03:00",
+        "actualTimeLocal": "2021-10-05 07:45+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:30Z",
+        "actualTimeUtc": "2021-10-05 04:45Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRTR",
+          "iata": "TSR",
+          "name": "Timişoara"
+        },
+        "quality": []
+      },
+      "number": "KL 2726",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "KLM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:30+03:00",
+        "actualTimeLocal": "2021-10-05 07:45+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:30Z",
+        "actualTimeUtc": "2021-10-05 04:45Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRTR",
+          "iata": "TSR",
+          "name": "Timişoara"
+        },
+        "quality": []
+      },
+      "number": "RO 601",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A318"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:40+03:00",
+        "actualTimeLocal": "2021-10-05 07:46+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:40Z",
+        "actualTimeUtc": "2021-10-05 04:46Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LROD",
+          "iata": "OMR",
+          "name": "Oradea"
+        },
+        "quality": []
+      },
+      "number": "RO 621",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "ATR 72"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:30+03:00",
+        "actualTimeLocal": "2021-10-05 07:45+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:30Z",
+        "actualTimeUtc": "2021-10-05 04:45Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRTR",
+          "iata": "TSR",
+          "name": "Timişoara"
+        },
+        "quality": []
+      },
+      "number": "TK 8589",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "airline": {
+        "name": "Turkish"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:35+03:00",
+        "actualTimeLocal": "2021-10-05 07:42+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:35Z",
+        "actualTimeUtc": "2021-10-05 04:42Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRCL",
+          "iata": "CLJ",
+          "name": "Cluj-Napoca"
+        },
+        "quality": []
+      },
+      "number": "TK 8595",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "airline": {
+        "name": "Turkish"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:20+03:00",
+        "actualTimeLocal": "2021-10-04 20:35+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:20Z",
+        "actualTimeUtc": "2021-10-04 17:35Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EBCI",
+          "iata": "CRL",
+          "name": "Brussels"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:10+02:00",
+        "scheduledTimeUtc": "2021-10-04 20:10Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "FR 2104",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:55+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:55Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EDDB",
+          "iata": "BER",
+          "name": "Berlin"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:05+02:00",
+        "scheduledTimeUtc": "2021-10-04 20:05Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "FR 328",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:45+03:00",
+        "actualTimeLocal": "2021-10-05 06:58+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:45Z",
+        "actualTimeUtc": "2021-10-05 03:58Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:15+02:00",
+        "actualTimeLocal": "2021-10-05 08:07+02:00",
+        "runwayTimeLocal": "2021-10-05 08:00+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:15Z",
+        "actualTimeUtc": "2021-10-05 06:07Z",
+        "runwayTimeUtc": "2021-10-05 06:00Z",
+        "terminal": "1",
+        "gate": "A2",
+        "runway": "25L",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LH 1423",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIUE",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Lufthansa"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:45+03:00",
+        "actualTimeLocal": "2021-10-05 06:58+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:45Z",
+        "actualTimeUtc": "2021-10-05 03:58Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:15+02:00",
+        "actualTimeLocal": "2021-10-05 08:07+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:15Z",
+        "actualTimeUtc": "2021-10-05 06:07Z",
+        "terminal": "1",
+        "gate": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "SK 3731",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIUE",
+        "model": "Airbus A320-200 (Sharklets)"
+      },
+      "airline": {
+        "name": "SAS"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:45+03:00",
+        "actualTimeLocal": "2021-10-05 06:58+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:45Z",
+        "actualTimeUtc": "2021-10-05 03:58Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:15+02:00",
+        "actualTimeLocal": "2021-10-05 08:07+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:15Z",
+        "actualTimeUtc": "2021-10-05 06:07Z",
+        "terminal": "1",
+        "gate": "A2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TP 7553",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIUE",
+        "model": "Airbus A320-200 (Sharklets)"
+      },
+      "airline": {
+        "name": "TAP Air Portugal"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:25+03:00",
+        "actualTimeLocal": "2021-10-05 06:32+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:25Z",
+        "actualTimeUtc": "2021-10-05 03:32Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EDDM",
+          "iata": "MUC",
+          "name": "Munich"
+        },
+        "scheduledTimeLocal": "2021-10-05 07:35+02:00",
+        "scheduledTimeUtc": "2021-10-05 05:35Z",
+        "terminal": "2",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "LH 1655",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Lufthansa"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:40+03:00",
+        "actualTimeLocal": "2021-10-05 06:51+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:40Z",
+        "actualTimeUtc": "2021-10-05 03:51Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EDJA",
+          "iata": "FMM",
+          "name": "Memmingen"
+        },
+        "scheduledTimeLocal": "2021-10-05 07:55+02:00",
+        "scheduledTimeUtc": "2021-10-05 05:55Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "W6 3099",
+      "callSign": "WZZ3099",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HA-LTH",
+        "modeS": "471F01",
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 19:30+03:00",
+        "actualTimeLocal": "2021-10-04 20:52+03:00",
+        "scheduledTimeUtc": "2021-10-04 16:30Z",
+        "actualTimeUtc": "2021-10-04 17:52Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EGGW",
+          "iata": "LTN",
+          "name": "London"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:00+01:00",
+        "actualTimeLocal": "2021-10-04 22:00+01:00",
+        "runwayTimeLocal": "2021-10-04 21:48+01:00",
+        "scheduledTimeUtc": "2021-10-04 21:00Z",
+        "actualTimeUtc": "2021-10-04 21:00Z",
+        "runwayTimeUtc": "2021-10-04 20:48Z",
+        "baggageBelt": "4",
+        "runway": "26",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3005",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HA-LXV",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:00+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:00Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EGLL",
+          "iata": "LHR",
+          "name": "London"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:25+01:00",
+        "scheduledTimeUtc": "2021-10-05 07:25Z",
+        "terminal": "0",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "0B 1331",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 21:40+03:00",
+        "actualTimeLocal": "2021-10-04 22:11+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:40Z",
+        "actualTimeUtc": "2021-10-04 19:11Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EGMC",
+          "iata": "SEN",
+          "name": "Southend"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:50+01:00",
+        "scheduledTimeUtc": "2021-10-04 21:50Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "FR 3935",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 21:55+03:00",
+        "actualTimeLocal": "2021-10-04 22:06+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:55Z",
+        "actualTimeUtc": "2021-10-04 19:06Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EGPH",
+          "iata": "EDI",
+          "name": "Edinburgh"
+        },
+        "scheduledTimeLocal": "2021-10-04 23:35+01:00",
+        "actualTimeLocal": "2021-10-04 23:23+01:00",
+        "scheduledTimeUtc": "2021-10-04 22:35Z",
+        "actualTimeUtc": "2021-10-04 22:23Z",
+        "runway": "24",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 5615",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-ENN",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:50+03:00",
+        "actualTimeLocal": "2021-10-05 07:08+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:50Z",
+        "actualTimeUtc": "2021-10-05 04:08Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EGSS",
+          "iata": "STN",
+          "name": "London"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:10+01:00",
+        "actualTimeLocal": "2021-10-05 08:01+01:00",
+        "runwayTimeLocal": "2021-10-05 08:01+01:00",
+        "scheduledTimeUtc": "2021-10-05 07:10Z",
+        "actualTimeUtc": "2021-10-05 07:01Z",
+        "runwayTimeUtc": "2021-10-05 07:01Z",
+        "terminal": "T1",
+        "runway": "22",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 1006",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-QBC",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:00+03:00",
+        "actualTimeLocal": "2021-10-05 07:05+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:00Z",
+        "actualTimeUtc": "2021-10-05 04:05Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EHAM",
+          "iata": "AMS",
+          "name": "Amsterdam"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:55+02:00",
+        "actualTimeLocal": "2021-10-05 08:34+02:00",
+        "runwayTimeLocal": "2021-10-05 08:34+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:55Z",
+        "actualTimeUtc": "2021-10-05 06:34Z",
+        "runwayTimeUtc": "2021-10-05 06:34Z",
+        "terminal": "3",
+        "gate": "D5",
+        "baggageBelt": "17",
+        "runway": "18C",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "KL 1372",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "PH-BXY",
+        "model": "Boeing 737-900"
+      },
+      "airline": {
+        "name": "KLM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:00+03:00",
+        "actualTimeLocal": "2021-10-05 07:05+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:00Z",
+        "actualTimeUtc": "2021-10-05 04:05Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "EHAM",
+          "iata": "AMS",
+          "name": "Amsterdam"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:55+02:00",
+        "actualTimeLocal": "2021-10-05 08:34+02:00",
+        "runwayTimeLocal": "2021-10-05 08:34+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:55Z",
+        "actualTimeUtc": "2021-10-05 06:34Z",
+        "runwayTimeUtc": "2021-10-05 06:34Z",
+        "terminal": "3",
+        "gate": "D5",
+        "baggageBelt": "17",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 9367",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "PH-BXY",
+        "model": "Boeing 737-800 (winglets)"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:15+03:00",
+        "actualTimeLocal": "2021-10-04 20:27+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:15Z",
+        "actualTimeUtc": "2021-10-04 17:27Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "ELLX",
+          "iata": "LUX",
+          "name": "Luxembourg"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:30+02:00",
+        "actualTimeLocal": "2021-10-04 22:30+02:00",
+        "scheduledTimeUtc": "2021-10-04 20:30Z",
+        "actualTimeUtc": "2021-10-04 20:30Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LG 8904",
+      "callSign": "LGL8904",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "LX-LQB",
+        "modeS": "4D00D6",
+        "model": "Bombardier Dash 8 Q400 / DHC-8-400"
+      },
+      "airline": {
+        "name": "Luxair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:40+03:00",
+        "actualTimeLocal": "2021-10-05 07:50+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:40Z",
+        "actualTimeUtc": "2021-10-05 04:50Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "ENTO",
+          "iata": "TRF",
+          "name": "Torp"
+        },
+        "scheduledTimeLocal": "2021-10-05 09:50+02:00",
+        "scheduledTimeUtc": "2021-10-05 07:50Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "W6 3215",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:15+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:15Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LCLK",
+          "iata": "LCA",
+          "name": "Larnarca"
+        },
+        "scheduledTimeLocal": "2021-10-05 09:25+03:00",
+        "scheduledTimeUtc": "2021-10-05 06:25Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "0B 137",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:55+03:00",
+        "actualTimeLocal": "2021-10-05 07:53+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:55Z",
+        "actualTimeUtc": "2021-10-05 04:53Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LCPH",
+          "iata": "PFO",
+          "name": "Paphos"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:55+03:00",
+        "scheduledTimeUtc": "2021-10-05 05:55Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "FR 3334",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:10+03:00",
+        "actualTimeLocal": "2021-10-05 07:19+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:10Z",
+        "actualTimeUtc": "2021-10-05 04:19Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LEBL",
+          "iata": "BCN",
+          "name": "Barcelona"
+        },
+        "scheduledTimeLocal": "2021-10-05 09:20+02:00",
+        "actualTimeLocal": "2021-10-05 09:10+02:00",
+        "scheduledTimeUtc": "2021-10-05 07:20Z",
+        "actualTimeUtc": "2021-10-05 07:10Z",
+        "terminal": "2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 107",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:40+03:00",
+        "actualTimeLocal": "2021-10-04 21:12+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:40Z",
+        "actualTimeUtc": "2021-10-04 18:12Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LEMD",
+          "iata": "MAD",
+          "name": "Madrid"
+        },
+        "scheduledTimeLocal": "2021-10-04 23:40+02:00",
+        "actualTimeLocal": "2021-10-04 23:40+02:00",
+        "runwayTimeLocal": "2021-10-04 23:27+02:00",
+        "scheduledTimeUtc": "2021-10-04 21:40Z",
+        "actualTimeUtc": "2021-10-04 21:40Z",
+        "runwayTimeUtc": "2021-10-04 21:27Z",
+        "terminal": "1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 2514",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "EI-EKH",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:20+03:00",
+        "actualTimeLocal": "2021-10-05 07:36+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:20Z",
+        "actualTimeUtc": "2021-10-05 04:36Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LEMD",
+          "iata": "MAD",
+          "name": "Madrid"
+        },
+        "scheduledTimeLocal": "2021-10-05 10:35+02:00",
+        "actualTimeLocal": "2021-10-05 10:15+02:00",
+        "scheduledTimeUtc": "2021-10-05 08:35Z",
+        "actualTimeUtc": "2021-10-05 08:15Z",
+        "terminal": "1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3173",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HA-LXG",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:00+03:00",
+        "actualTimeLocal": "2021-10-05 07:01+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:00Z",
+        "actualTimeUtc": "2021-10-05 04:01Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LEMG",
+          "iata": "AGP",
+          "name": "Málaga"
+        },
+        "scheduledTimeLocal": "2021-10-05 10:10+02:00",
+        "actualTimeLocal": "2021-10-05 09:47+02:00",
+        "scheduledTimeUtc": "2021-10-05 08:10Z",
+        "actualTimeUtc": "2021-10-05 07:47Z",
+        "terminal": "PAX",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 125",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:15+03:00",
+        "actualTimeLocal": "2021-10-05 06:29+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:15Z",
+        "actualTimeUtc": "2021-10-05 03:29Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LEPA",
+          "iata": "PMI",
+          "name": "Palma De Mallorca"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:30+02:00",
+        "actualTimeLocal": "2021-10-05 08:23+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:30Z",
+        "actualTimeUtc": "2021-10-05 06:23Z",
+        "terminal": "N",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3023",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:30+03:00",
+        "actualTimeLocal": "2021-10-05 06:48+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:30Z",
+        "actualTimeUtc": "2021-10-05 03:48Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LEVC",
+          "iata": "VLC",
+          "name": "Valencia"
+        },
+        "scheduledTimeLocal": "2021-10-05 09:00+02:00",
+        "actualTimeLocal": "2021-10-05 09:05+02:00",
+        "scheduledTimeUtc": "2021-10-05 07:00Z",
+        "actualTimeUtc": "2021-10-05 07:05Z",
+        "terminal": "1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3185",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:05+03:00",
+        "actualTimeLocal": "2021-10-05 06:12+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:05Z",
+        "actualTimeUtc": "2021-10-05 03:12Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LFPG",
+          "iata": "CDG",
+          "name": "Paris"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:20+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:20Z",
+        "terminal": "2E",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "AF 1089",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Air France"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:25+03:00",
+        "actualTimeLocal": "2021-10-04 20:30+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:25Z",
+        "actualTimeUtc": "2021-10-04 17:30Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LGAV",
+          "iata": "ATH",
+          "name": "Athens"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:00+03:00",
+        "scheduledTimeUtc": "2021-10-04 19:00Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "A3 963",
+      "status": "Departed",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Aegean"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:30+03:00",
+        "actualTimeLocal": "2021-10-05 07:33+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:30Z",
+        "actualTimeUtc": "2021-10-05 04:33Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LIBD",
+          "iata": "BRI",
+          "name": "Bari"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:15+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:15Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "W6 3165",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 19:50+03:00",
+        "actualTimeLocal": "2021-10-04 20:28+03:00",
+        "scheduledTimeUtc": "2021-10-04 16:50Z",
+        "actualTimeUtc": "2021-10-04 17:28Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LIMC",
+          "iata": "MXP",
+          "name": "Milan"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:10+02:00",
+        "actualTimeLocal": "2021-10-04 21:43+02:00",
+        "scheduledTimeUtc": "2021-10-04 19:10Z",
+        "actualTimeUtc": "2021-10-04 19:43Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 8735",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-QAI",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:15+03:00",
+        "actualTimeLocal": "2021-10-05 07:28+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:15Z",
+        "actualTimeUtc": "2021-10-05 04:28Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LIME",
+          "iata": "BGY",
+          "name": "Bergamo"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:35+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:35Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "W6 3135",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:20+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:20Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LIML",
+          "iata": "LIN",
+          "name": "Milan"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:35+02:00",
+        "scheduledTimeUtc": "2021-10-05 06:35Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "0B 1059",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 23:25+03:00",
+        "actualTimeLocal": "2021-10-04 23:36+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:25Z",
+        "actualTimeUtc": "2021-10-04 20:36Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LIPE",
+          "iata": "BLQ",
+          "name": "Bologna"
+        },
+        "scheduledTimeLocal": "2021-10-05 00:30+02:00",
+        "scheduledTimeUtc": "2021-10-04 22:30Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "FR 3991",
+      "callSign": "RYR3991",
+      "status": "Departed",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "9H-QDF",
+        "modeS": "4D2247",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:40+03:00",
+        "actualTimeLocal": "2021-10-04 21:22+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:40Z",
+        "actualTimeUtc": "2021-10-04 18:22Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LIRA",
+          "iata": "CIA",
+          "name": "Roma"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:40+02:00",
+        "scheduledTimeUtc": "2021-10-04 19:40Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "FR 3957",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 05:50+03:00",
+        "actualTimeLocal": "2021-10-05 06:00+03:00",
+        "scheduledTimeUtc": "2021-10-05 02:50Z",
+        "actualTimeUtc": "2021-10-05 03:00Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LIRN",
+          "iata": "NAP",
+          "name": "Nápoli"
+        },
+        "scheduledTimeLocal": "2021-10-05 06:50+02:00",
+        "scheduledTimeUtc": "2021-10-05 04:50Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "W6 3153",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 19:55+03:00",
+        "actualTimeLocal": "2021-10-04 20:14+03:00",
+        "scheduledTimeUtc": "2021-10-04 16:55Z",
+        "actualTimeUtc": "2021-10-04 17:14Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LLBG",
+          "iata": "TLV",
+          "name": "Tel Aviv Yafo"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:30+03:00",
+        "actualTimeLocal": "2021-10-04 22:18+03:00",
+        "scheduledTimeUtc": "2021-10-04 19:30Z",
+        "actualTimeUtc": "2021-10-04 19:18Z",
+        "terminal": "3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 153",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-BGM",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 19:50+03:00",
+        "actualTimeLocal": "2021-10-04 20:18+03:00",
+        "scheduledTimeUtc": "2021-10-04 16:50Z",
+        "actualTimeUtc": "2021-10-04 17:18Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LOWW",
+          "iata": "VIE",
+          "name": "Vienna"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:25+02:00",
+        "actualTimeLocal": "2021-10-04 20:40+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:25Z",
+        "actualTimeUtc": "2021-10-04 18:40Z",
+        "terminal": "0",
+        "baggageBelt": "02",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3053",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HA-LWU",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 06:00+03:00",
+        "actualTimeLocal": "2021-10-05 06:09+03:00",
+        "scheduledTimeUtc": "2021-10-05 03:00Z",
+        "actualTimeUtc": "2021-10-05 03:09Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LOWW",
+          "iata": "VIE",
+          "name": "Vienna"
+        },
+        "scheduledTimeLocal": "2021-10-05 06:40+02:00",
+        "actualTimeLocal": "2021-10-05 06:32+02:00",
+        "scheduledTimeUtc": "2021-10-05 04:40Z",
+        "actualTimeUtc": "2021-10-05 04:32Z",
+        "terminal": "3",
+        "baggageBelt": "05",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "OS 768",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Austrian"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 20:10+03:00",
+        "actualTimeLocal": "2021-10-04 20:24+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:10Z",
+        "actualTimeUtc": "2021-10-04 17:24Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LPPT",
+          "iata": "LIS",
+          "name": "Lisbon"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:40+01:00",
+        "actualTimeLocal": "2021-10-04 22:28+01:00",
+        "runwayTimeLocal": "2021-10-04 22:26+01:00",
+        "scheduledTimeUtc": "2021-10-04 21:40Z",
+        "actualTimeUtc": "2021-10-04 21:28Z",
+        "runwayTimeUtc": "2021-10-04 21:26Z",
+        "terminal": "T1",
+        "runway": "03",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 157",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-MXB",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:25+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:25Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRCL",
+          "iata": "CLJ",
+          "name": "Cluj-Napoca"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:20+03:00",
+        "scheduledTimeUtc": "2021-10-05 05:20Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "0B 3001",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-05 07:35+03:00",
+        "actualTimeLocal": "2021-10-05 07:42+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:35Z",
+        "actualTimeUtc": "2021-10-05 04:42Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LRCL",
+          "iata": "CLJ",
+          "name": "Cluj-Napoca"
+        },
+        "scheduledTimeLocal": "2021-10-05 08:30+03:00",
+        "scheduledTimeUtc": "2021-10-05 05:30Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "RO 641",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-700"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "scheduledTimeLocal": "2021-10-04 21:50+03:00",
+        "actualTimeLocal": "2021-10-04 21:55+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:50Z",
+        "actualTimeUtc": "2021-10-04 18:55Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "airport": {
+          "icao": "LTFM",
+          "iata": "IST",
+          "name": "Istanbul"
+        },
+        "scheduledTimeLocal": "2021-10-04 23:10+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:10Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "TK 1046",
+      "status": "Departed",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Turkish"
+      }
+    }
+  ],
+  "arrivals": [
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIMF",
+          "iata": "TRN",
+          "name": "Torino"
+        },
+        "scheduledTimeLocal": "2021-10-04 17:25+02:00",
+        "scheduledTimeUtc": "2021-10-04 15:25Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:45+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:45Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "0B 102",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LGAV",
+          "iata": "ATH",
+          "name": "Athens"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:30+03:00",
+        "actualTimeLocal": "2021-10-04 21:36+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:30Z",
+        "actualTimeUtc": "2021-10-04 18:36Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "A3 3290",
+      "status": "Arrived",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "Aegean"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LRCL",
+          "iata": "CLJ",
+          "name": "Cluj-Napoca"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:35+03:00",
+        "actualTimeLocal": "2021-10-04 20:32+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:35Z",
+        "actualTimeUtc": "2021-10-04 17:32Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "AZ 5007",
+      "status": "Arrived",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "Alitalia"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LRSM",
+          "iata": "SUJ",
+          "name": "Satu Mare"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:10+03:00",
+        "actualTimeLocal": "2021-10-04 20:11+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:10Z",
+        "actualTimeUtc": "2021-10-04 17:11Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "AZ 5041",
+      "status": "Arrived",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "Alitalia"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEMD",
+          "iata": "MAD",
+          "name": "Madrid"
+        },
+        "scheduledTimeLocal": "2021-10-04 15:35+02:00",
+        "actualTimeLocal": "2021-10-04 15:36+02:00",
+        "scheduledTimeUtc": "2021-10-04 13:35Z",
+        "actualTimeUtc": "2021-10-04 13:36Z",
+        "terminal": "1",
+        "checkInDesk": "355-359",
+        "gate": "B29",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:15+03:00",
+        "actualTimeLocal": "2021-10-04 20:05+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:15Z",
+        "actualTimeUtc": "2021-10-04 17:05Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 2513",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDB",
+          "iata": "BER",
+          "name": "Berlin"
+        },
+        "scheduledTimeLocal": "2021-10-04 17:20+02:00",
+        "scheduledTimeUtc": "2021-10-04 15:20Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:30+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:30Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "FR 327",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LGAV",
+          "iata": "ATH",
+          "name": "Athens"
+        },
+        "scheduledTimeLocal": "2021-10-04 18:55+03:00",
+        "scheduledTimeUtc": "2021-10-04 15:55Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:30+03:00",
+        "actualTimeLocal": "2021-10-04 21:36+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:30Z",
+        "actualTimeUtc": "2021-10-04 18:36Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 274",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-700"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LRSM",
+          "iata": "SUJ",
+          "name": "Satu Mare"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:10+03:00",
+        "actualTimeLocal": "2021-10-04 20:11+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:10Z",
+        "actualTimeUtc": "2021-10-04 17:11Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 638",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "ATR 72"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LRCL",
+          "iata": "CLJ",
+          "name": "Cluj-Napoca"
+        },
+        "scheduledTimeLocal": "2021-10-04 19:40+03:00",
+        "scheduledTimeUtc": "2021-10-04 16:40Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:35+03:00",
+        "actualTimeLocal": "2021-10-04 20:32+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:35Z",
+        "actualTimeUtc": "2021-10-04 17:32Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 648",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "ATR 72"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LTFM",
+          "iata": "IST",
+          "name": "Istanbul"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:30+03:00",
+        "actualTimeLocal": "2021-10-04 20:20+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:30Z",
+        "actualTimeUtc": "2021-10-04 17:20Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 9160",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LTFM",
+          "iata": "IST",
+          "name": "Istanbul"
+        },
+        "scheduledTimeLocal": "2021-10-04 19:15+03:00",
+        "scheduledTimeUtc": "2021-10-04 16:15Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:30+03:00",
+        "actualTimeLocal": "2021-10-04 20:20+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:30Z",
+        "actualTimeUtc": "2021-10-04 17:20Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TK 1045",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Turkish"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGMC",
+          "iata": "SEN",
+          "name": "Southend"
+        },
+        "scheduledTimeLocal": "2021-10-04 16:15+01:00",
+        "scheduledTimeUtc": "2021-10-04 15:15Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 21:15+03:00",
+        "actualTimeLocal": "2021-10-04 20:59+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:15Z",
+        "actualTimeUtc": "2021-10-04 17:59Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 3934",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIRA",
+          "iata": "CIA",
+          "name": "Roma"
+        },
+        "scheduledTimeLocal": "2021-10-04 17:15+02:00",
+        "scheduledTimeUtc": "2021-10-04 15:15Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 20:10+03:00",
+        "actualTimeLocal": "2021-10-04 20:24+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:10Z",
+        "actualTimeUtc": "2021-10-04 17:24Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 3956",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGPH",
+          "iata": "EDI",
+          "name": "Edinburgh"
+        },
+        "scheduledTimeLocal": "2021-10-04 15:55+01:00",
+        "actualTimeLocal": "2021-10-04 15:59+01:00",
+        "scheduledTimeUtc": "2021-10-04 14:55Z",
+        "actualTimeUtc": "2021-10-04 14:59Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 21:25+03:00",
+        "actualTimeLocal": "2021-10-04 21:20+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:25Z",
+        "actualTimeUtc": "2021-10-04 18:20Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 5614",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "name": "Tel Aviv Yafo"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 21:10+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:10Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "LY 571",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-900"
+      },
+      "airline": {
+        "name": "El Al"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LRTR",
+          "iata": "TSR",
+          "name": "Timişoara"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 21:35+03:00",
+        "actualTimeLocal": "2021-10-04 21:08+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:35Z",
+        "actualTimeUtc": "2021-10-04 18:08Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 608",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LROD",
+          "iata": "OMR",
+          "name": "Oradea"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 21:05+03:00",
+        "actualTimeLocal": "2021-10-04 20:46+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:05Z",
+        "actualTimeUtc": "2021-10-04 17:46Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 628",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "ATR 72"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LRIA",
+          "iata": "IAS",
+          "name": "Iaşi"
+        },
+        "scheduledTimeLocal": "2021-10-04 19:50+03:00",
+        "scheduledTimeUtc": "2021-10-04 16:50Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 21:00+03:00",
+        "actualTimeLocal": "2021-10-04 21:03+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:00Z",
+        "actualTimeUtc": "2021-10-04 18:03Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 708",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "ATR 72"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDM",
+          "iata": "MUC",
+          "name": "Munich"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:50+02:00",
+        "actualTimeLocal": "2021-10-04 21:06+02:00",
+        "runwayTimeLocal": "2021-10-04 21:08+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:50Z",
+        "actualTimeUtc": "2021-10-04 19:06Z",
+        "runwayTimeUtc": "2021-10-04 19:08Z",
+        "terminal": "2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:50+03:00",
+        "actualTimeLocal": "2021-10-04 23:53+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:50Z",
+        "actualTimeUtc": "2021-10-04 20:53Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LH 1654",
+      "status": "Expected",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIUV",
+        "model": "Airbus A320 NEO"
+      },
+      "airline": {
+        "name": "Lufthansa"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OLBA",
+          "iata": "BEY",
+          "name": "Beirut"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:10+03:00",
+        "actualTimeLocal": "2021-10-04 22:59+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:10Z",
+        "actualTimeUtc": "2021-10-04 19:59Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "ME 2255",
+      "status": "Arrived",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "Middle East"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OLBA",
+          "iata": "BEY",
+          "name": "Beirut"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:40+03:00",
+        "scheduledTimeUtc": "2021-10-04 17:40Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:10+03:00",
+        "actualTimeLocal": "2021-10-04 22:59+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:10Z",
+        "actualTimeUtc": "2021-10-04 19:59Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 166",
+      "callSign": "ROT166",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-BGF",
+        "modeS": "4A08E6",
+        "model": "Boeing 737-700"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGGP",
+          "iata": "LPL",
+          "name": "Liverpool"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:30+03:00",
+        "actualTimeLocal": "2021-10-04 23:11+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:30Z",
+        "actualTimeUtc": "2021-10-04 20:11Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 5832",
+      "callSign": "ROT5832",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-ASA",
+        "modeS": "4A0661",
+        "model": "Airbus A318"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDM",
+          "iata": "MUC",
+          "name": "Munich"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:50+03:00",
+        "actualTimeLocal": "2021-10-04 23:53+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:50Z",
+        "actualTimeUtc": "2021-10-04 20:53Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "SK 3744",
+      "status": "Expected",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "SAS"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDM",
+          "iata": "MUC",
+          "name": "Munich"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:50+03:00",
+        "actualTimeLocal": "2021-10-04 23:53+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:50Z",
+        "actualTimeUtc": "2021-10-04 20:53Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TP 7562",
+      "status": "Expected",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "TAP Air Portugal"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LOWW",
+          "iata": "VIE",
+          "name": "Vienna"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:00+02:00",
+        "actualTimeLocal": "2021-10-04 21:34+02:00",
+        "scheduledTimeUtc": "2021-10-04 19:00Z",
+        "actualTimeUtc": "2021-10-04 19:34Z",
+        "terminal": "T1",
+        "checkInDesk": "151-157",
+        "gate": "G03",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:35+03:00",
+        "actualTimeLocal": "2021-10-04 23:35+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:35Z",
+        "actualTimeUtc": "2021-10-04 20:35Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3054",
+      "status": "Expected",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEBL",
+          "iata": "BCN",
+          "name": "Barcelona"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:40+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:40Z",
+        "terminal": "0",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:50+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:50Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "0B 108",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGLL",
+          "iata": "LHR",
+          "name": "London"
+        },
+        "scheduledTimeLocal": "2021-10-04 18:55+01:00",
+        "scheduledTimeUtc": "2021-10-04 17:55Z",
+        "terminal": "0",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:05+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:05Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "0B 1432",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EKCH",
+          "iata": "CPH",
+          "name": "Copenhagen"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:05+02:00",
+        "actualTimeLocal": "2021-10-04 21:05+02:00",
+        "runwayTimeLocal": "2021-10-04 21:18+02:00",
+        "scheduledTimeUtc": "2021-10-04 19:05Z",
+        "actualTimeUtc": "2021-10-04 19:05Z",
+        "runwayTimeUtc": "2021-10-04 19:18Z",
+        "terminal": "2",
+        "runway": "22R",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:35+03:00",
+        "actualTimeLocal": "2021-10-05 00:24+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:35Z",
+        "actualTimeUtc": "2021-10-04 21:24Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 154",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-MXA",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:45+02:00",
+        "actualTimeLocal": "2021-10-04 20:45+02:00",
+        "runwayTimeLocal": "2021-10-04 20:52+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:45Z",
+        "actualTimeUtc": "2021-10-04 18:45Z",
+        "runwayTimeUtc": "2021-10-04 18:52Z",
+        "terminal": "2",
+        "checkInDesk": "951-953",
+        "gate": "E4",
+        "runway": "18",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:10+03:00",
+        "actualTimeLocal": "2021-10-04 23:51+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:10Z",
+        "actualTimeUtc": "2021-10-04 20:51Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 188",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-BML",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFPG",
+          "iata": "CDG",
+          "name": "Paris"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:55+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:55Z",
+        "terminal": "2E",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:50+03:00",
+        "actualTimeLocal": "2021-10-05 00:46+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:50Z",
+        "actualTimeUtc": "2021-10-04 21:46Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "AF 1088",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Air France"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EHAM",
+          "iata": "AMS",
+          "name": "Amsterdam"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:00+02:00",
+        "actualTimeLocal": "2021-10-04 21:08+02:00",
+        "runwayTimeLocal": "2021-10-04 21:18+02:00",
+        "scheduledTimeUtc": "2021-10-04 19:00Z",
+        "actualTimeUtc": "2021-10-04 19:08Z",
+        "runwayTimeUtc": "2021-10-04 19:18Z",
+        "terminal": "2",
+        "checkInDesk": "9-16",
+        "gate": "D25",
+        "runway": "09",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:40+03:00",
+        "actualTimeLocal": "2021-10-05 00:38+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:40Z",
+        "actualTimeUtc": "2021-10-04 21:38Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "KL 1379",
+      "status": "Arrived",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "PH-BXY",
+        "model": "Boeing 737-900"
+      },
+      "airline": {
+        "name": "KLM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:50+02:00",
+        "actualTimeLocal": "2021-10-04 20:50+02:00",
+        "runwayTimeLocal": "2021-10-04 21:04+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:50Z",
+        "actualTimeUtc": "2021-10-04 18:50Z",
+        "runwayTimeUtc": "2021-10-04 19:04Z",
+        "terminal": "1",
+        "checkInDesk": "263-453",
+        "gate": "B25",
+        "runway": "18",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:10+03:00",
+        "actualTimeLocal": "2021-10-04 23:58+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:10Z",
+        "actualTimeUtc": "2021-10-04 20:58Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "LH 1422",
+      "status": "Arrived",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIUE",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Lufthansa"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LOWW",
+          "iata": "VIE",
+          "name": "Vienna"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:05+02:00",
+        "actualTimeLocal": "2021-10-04 22:16+02:00",
+        "runwayTimeLocal": "2021-10-04 22:19+02:00",
+        "scheduledTimeUtc": "2021-10-04 20:05Z",
+        "actualTimeUtc": "2021-10-04 20:16Z",
+        "runwayTimeUtc": "2021-10-04 20:19Z",
+        "terminal": "T3",
+        "checkInDesk": "351-378",
+        "gate": "G12",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:40+03:00",
+        "actualTimeLocal": "2021-10-05 00:32+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:40Z",
+        "actualTimeUtc": "2021-10-04 21:32Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "OS 767",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "OE-LZA",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Austrian"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EHAM",
+          "iata": "AMS",
+          "name": "Amsterdam"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:00+02:00",
+        "actualTimeLocal": "2021-10-04 21:08+02:00",
+        "scheduledTimeUtc": "2021-10-04 19:00Z",
+        "actualTimeUtc": "2021-10-04 19:08Z",
+        "terminal": "2",
+        "checkInDesk": "9-16",
+        "gate": "D25",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:40+03:00",
+        "actualTimeLocal": "2021-10-05 00:38+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:40Z",
+        "actualTimeUtc": "2021-10-04 21:38Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 9362",
+      "status": "Arrived",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "PH-BXY",
+        "model": "Boeing 737-800 (winglets)"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:10+03:00",
+        "actualTimeLocal": "2021-10-04 23:58+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:10Z",
+        "actualTimeUtc": "2021-10-04 20:58Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "SK 3728",
+      "status": "Arrived",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "airline": {
+        "name": "SAS"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EDDF",
+          "iata": "FRA",
+          "name": "Frankfurt-am-Main"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:50+02:00",
+        "actualTimeLocal": "2021-10-04 20:50+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:50Z",
+        "actualTimeUtc": "2021-10-04 18:50Z",
+        "terminal": "1",
+        "checkInDesk": "263-453",
+        "gate": "B25",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:10+03:00",
+        "actualTimeLocal": "2021-10-04 23:58+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:10Z",
+        "actualTimeUtc": "2021-10-04 20:58Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TP 7554",
+      "status": "Arrived",
+      "codeshareStatus": "IsCodeshared",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "D-AIUE",
+        "model": "Airbus A320-200 (Sharklets)"
+      },
+      "airline": {
+        "name": "TAP Air Portugal"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LSGG",
+          "iata": "GVA",
+          "name": "Geneva"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:45+02:00",
+        "actualTimeLocal": "2021-10-04 21:19+02:00",
+        "runwayTimeLocal": "2021-10-04 21:21+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:45Z",
+        "actualTimeUtc": "2021-10-04 19:19Z",
+        "runwayTimeUtc": "2021-10-04 19:21Z",
+        "terminal": "1",
+        "checkInDesk": "50-56",
+        "gate": "C91",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:20+03:00",
+        "actualTimeLocal": "2021-10-05 00:29+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:20Z",
+        "actualTimeUtc": "2021-10-04 21:29Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3088",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HA-LVC",
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIPE",
+          "iata": "BLQ",
+          "name": "Bologna"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:25+02:00",
+        "scheduledTimeUtc": "2021-10-04 19:25Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:30+03:00",
+        "actualTimeLocal": "2021-10-05 00:27+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:30Z",
+        "actualTimeUtc": "2021-10-04 21:27Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3164",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIEA",
+          "iata": "AHO",
+          "name": "Alghero"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:10+02:00",
+        "scheduledTimeUtc": "2021-10-04 19:10Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:40+03:00",
+        "actualTimeLocal": "2021-10-05 00:18+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:40Z",
+        "actualTimeUtc": "2021-10-04 21:18Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3170",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEBL",
+          "iata": "BCN",
+          "name": "Barcelona"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:30+02:00",
+        "actualTimeLocal": "2021-10-04 20:39+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:30Z",
+        "actualTimeUtc": "2021-10-04 18:39Z",
+        "terminal": "2",
+        "checkInDesk": "B3-B10",
+        "gate": "W46",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:40+03:00",
+        "actualTimeLocal": "2021-10-05 00:41+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:40Z",
+        "actualTimeUtc": "2021-10-04 21:41Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3176",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "OMDB",
+          "iata": "DXB",
+          "name": "Dubai City"
+        },
+        "scheduledTimeLocal": "2021-10-04 19:55+04:00",
+        "actualTimeLocal": "2021-10-04 20:30+04:00",
+        "scheduledTimeUtc": "2021-10-04 15:55Z",
+        "actualTimeUtc": "2021-10-04 16:30Z",
+        "terminal": "2",
+        "gate": "F10",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 00:30+03:00",
+        "actualTimeLocal": "2021-10-05 00:21+03:00",
+        "scheduledTimeUtc": "2021-10-04 21:30Z",
+        "actualTimeUtc": "2021-10-04 21:21Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3266",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HA-LVP",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "GCTS",
+          "iata": "TFS",
+          "name": "Tenerife Island"
+        },
+        "scheduledTimeLocal": "2021-10-04 18:10+01:00",
+        "actualTimeLocal": "2021-10-04 18:27+01:00",
+        "scheduledTimeUtc": "2021-10-04 17:10Z",
+        "actualTimeUtc": "2021-10-04 17:27Z",
+        "terminal": "1",
+        "checkInDesk": "53-54",
+        "gate": "B9",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 01:35+03:00",
+        "actualTimeLocal": "2021-10-05 02:01+03:00",
+        "scheduledTimeUtc": "2021-10-04 22:35Z",
+        "actualTimeUtc": "2021-10-04 23:01Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3022",
+      "callSign": "WZZ3022",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HA-LVN",
+        "modeS": "471F33",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LFLL",
+          "iata": "LYS",
+          "name": "Lyon"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:25+02:00",
+        "scheduledTimeUtc": "2021-10-04 19:25Z",
+        "terminal": "1",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 01:00+03:00",
+        "actualTimeLocal": "2021-10-05 00:44+03:00",
+        "scheduledTimeUtc": "2021-10-04 22:00Z",
+        "actualTimeUtc": "2021-10-04 21:44Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3062",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LEZG",
+          "iata": "ZAZ",
+          "name": "Zaragoza"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:50+02:00",
+        "actualTimeLocal": "2021-10-04 21:06+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:50Z",
+        "actualTimeUtc": "2021-10-04 19:06Z",
+        "terminal": "1",
+        "checkInDesk": "1-3",
+        "gate": "2",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 01:10+03:00",
+        "actualTimeLocal": "2021-10-05 01:19+03:00",
+        "scheduledTimeUtc": "2021-10-04 22:10Z",
+        "actualTimeUtc": "2021-10-04 22:19Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3192",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LLBG",
+          "iata": "TLV",
+          "name": "Tel Aviv Yafo"
+        },
+        "scheduledTimeLocal": "2021-10-04 23:30+03:00",
+        "actualTimeLocal": "2021-10-04 23:42+03:00",
+        "runwayTimeLocal": "2021-10-04 23:42+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:30Z",
+        "actualTimeUtc": "2021-10-04 20:42Z",
+        "runwayTimeUtc": "2021-10-04 20:42Z",
+        "terminal": "3",
+        "runway": "26",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 02:15+03:00",
+        "actualTimeLocal": "2021-10-05 02:03+03:00",
+        "scheduledTimeUtc": "2021-10-04 23:15Z",
+        "actualTimeUtc": "2021-10-04 23:03Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "RO 154",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-BGM",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "TAROM"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGGW",
+          "iata": "LTN",
+          "name": "London"
+        },
+        "scheduledTimeLocal": "2021-10-04 22:40+01:00",
+        "actualTimeLocal": "2021-10-04 23:09+01:00",
+        "runwayTimeLocal": "2021-10-04 23:10+01:00",
+        "scheduledTimeUtc": "2021-10-04 21:40Z",
+        "actualTimeUtc": "2021-10-04 22:09Z",
+        "runwayTimeUtc": "2021-10-04 22:10Z",
+        "runway": "26",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 02:55+03:00",
+        "actualTimeLocal": "2021-10-05 03:59+03:00",
+        "scheduledTimeUtc": "2021-10-04 23:55Z",
+        "actualTimeUtc": "2021-10-05 00:59Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3006",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "HA-LXV",
+        "model": "Airbus A320"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGCN",
+          "iata": "DSA",
+          "name": "Doncaster"
+        },
+        "scheduledTimeLocal": "2021-10-04 21:40+01:00",
+        "scheduledTimeUtc": "2021-10-04 20:40Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 02:55+03:00",
+        "actualTimeLocal": "2021-10-05 02:30+03:00",
+        "scheduledTimeUtc": "2021-10-04 23:55Z",
+        "actualTimeUtc": "2021-10-04 23:30Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "W6 3016",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Airbus A321"
+      },
+      "airline": {
+        "name": "Wizz Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LPPT",
+          "iata": "LIS",
+          "name": "Lisbon"
+        },
+        "scheduledTimeLocal": "2021-10-04 23:30+01:00",
+        "actualTimeLocal": "2021-10-04 23:24+01:00",
+        "runwayTimeLocal": "2021-10-04 23:25+01:00",
+        "scheduledTimeUtc": "2021-10-04 22:30Z",
+        "actualTimeUtc": "2021-10-04 22:24Z",
+        "runwayTimeUtc": "2021-10-04 22:25Z",
+        "terminal": "T2",
+        "runway": "03",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 05:40+03:00",
+        "actualTimeLocal": "2021-10-05 05:14+03:00",
+        "scheduledTimeUtc": "2021-10-05 02:40Z",
+        "actualTimeUtc": "2021-10-05 02:14Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 158",
+      "callSign": "BLA158",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-MXB",
+        "modeS": "4A3702",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LRIA",
+          "iata": "IAS",
+          "name": "Iaşi"
+        },
+        "scheduledTimeLocal": "2021-10-05 05:00+03:00",
+        "scheduledTimeUtc": "2021-10-05 02:00Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 05:55+03:00",
+        "actualTimeLocal": "2021-10-05 05:41+03:00",
+        "scheduledTimeUtc": "2021-10-05 02:55Z",
+        "actualTimeUtc": "2021-10-05 02:41Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 6102",
+      "callSign": "BLA6102",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-AME",
+        "modeS": "4A05A5",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LRIA",
+          "iata": "IAS",
+          "name": "Iaşi"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 21:00+03:00",
+        "actualTimeLocal": "2021-10-04 21:03+03:00",
+        "scheduledTimeUtc": "2021-10-04 18:00Z",
+        "actualTimeUtc": "2021-10-04 18:03Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "TK 8598",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "airline": {
+        "name": "Turkish"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIPE",
+          "iata": "BLQ",
+          "name": "Bologna"
+        },
+        "scheduledTimeLocal": "2021-10-04 19:55+02:00",
+        "scheduledTimeUtc": "2021-10-04 17:55Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 22:50+03:00",
+        "actualTimeLocal": "2021-10-04 22:56+03:00",
+        "scheduledTimeUtc": "2021-10-04 19:50Z",
+        "actualTimeUtc": "2021-10-04 19:56Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 3990",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIML",
+          "iata": "LIN",
+          "name": "Milan"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:10+02:00",
+        "actualTimeLocal": "2021-10-04 20:20+02:00",
+        "runwayTimeLocal": "2021-10-04 20:20+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:10Z",
+        "actualTimeUtc": "2021-10-04 18:20Z",
+        "runwayTimeUtc": "2021-10-04 18:20Z",
+        "runway": "36",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:20+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:20Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "0B 1160",
+      "status": "Expected",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-AME",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIRQ",
+          "iata": "FLR",
+          "name": "Firenze"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:50+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:50Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:55+03:00",
+        "actualTimeLocal": "2021-10-04 23:35+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:55Z",
+        "actualTimeUtc": "2021-10-04 20:35Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 120",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIRF",
+          "iata": "FCO",
+          "name": "Rome"
+        },
+        "scheduledTimeLocal": "2021-10-04 20:25+02:00",
+        "scheduledTimeUtc": "2021-10-04 18:25Z",
+        "terminal": "3",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:35+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:35Z",
+        "quality": [
+          "Basic"
+        ]
+      },
+      "number": "0B 1216",
+      "status": "CanceledUncertain",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIML",
+          "iata": "LIN",
+          "name": "Milan"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:20+03:00",
+        "actualTimeLocal": "2021-10-04 23:16+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:20Z",
+        "actualTimeUtc": "2021-10-04 20:16Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 1260",
+      "callSign": "BLA1260",
+      "status": "Arrived",
+      "codeshareStatus": "IsOperator",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-AME",
+        "modeS": "4A05A5",
+        "model": "Boeing 737-500"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LIRF",
+          "iata": "FCO",
+          "name": "Rome"
+        },
+        "scheduledTimeLocal": "2021-10-04 18:55+02:00",
+        "actualTimeLocal": "2021-10-04 19:59+02:00",
+        "runwayTimeLocal": "2021-10-04 19:59+02:00",
+        "scheduledTimeUtc": "2021-10-04 16:55Z",
+        "actualTimeUtc": "2021-10-04 17:59Z",
+        "runwayTimeUtc": "2021-10-04 17:59Z",
+        "terminal": "3",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:20+03:00",
+        "actualTimeLocal": "2021-10-04 23:20+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:20Z",
+        "actualTimeUtc": "2021-10-04 20:20Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 2916",
+      "status": "Expected",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "reg": "YR-BMM",
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "EGSS",
+          "iata": "STN",
+          "name": "London"
+        },
+        "scheduledTimeLocal": "2021-10-04 18:55+01:00",
+        "actualTimeLocal": "2021-10-04 19:20+01:00",
+        "scheduledTimeUtc": "2021-10-04 17:55Z",
+        "actualTimeUtc": "2021-10-04 18:20Z",
+        "terminal": "T1",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-04 23:55+03:00",
+        "actualTimeLocal": "2021-10-04 23:55+03:00",
+        "scheduledTimeUtc": "2021-10-04 20:55Z",
+        "actualTimeUtc": "2021-10-04 20:55Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "FR 1007",
+      "status": "Expected",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Ryanair"
+      }
+    },
+    {
+      "departure": {
+        "airport": {
+          "icao": "LRBC",
+          "iata": "BCM",
+          "name": "Bacău"
+        },
+        "quality": []
+      },
+      "arrival": {
+        "scheduledTimeLocal": "2021-10-05 07:50+03:00",
+        "actualTimeLocal": "2021-10-05 07:35+03:00",
+        "scheduledTimeUtc": "2021-10-05 04:50Z",
+        "actualTimeUtc": "2021-10-05 04:35Z",
+        "quality": [
+          "Basic",
+          "Live"
+        ]
+      },
+      "number": "0B 2903",
+      "status": "Arrived",
+      "codeshareStatus": "Unknown",
+      "isCargo": false,
+      "aircraft": {
+        "model": "Boeing 737-800"
+      },
+      "airline": {
+        "name": "Blue Air"
+      }
+    }
+  ]
+}
